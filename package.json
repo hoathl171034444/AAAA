@@ -1,0 +1,21 @@
+{
+    "name": "automation-comment-x",
+    "version": "1.0.0",
+    "description": "Node.js tool for automating login/search/reply workflow on X with multiple accounts",
+    "main": "src/index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node src/index.js",
+        "check": "node --check src/index.js"
+    },
+    "keywords": [
+        "x",
+        "twitter",
+        "automation",
+        "playwright"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "playwright": "^1.54.0"
+    }
+}

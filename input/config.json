@@ -1,0 +1,39 @@
+{
+    "browser": "chromium",
+    "chromiumExecutablePath": "C:\\Users\\kingg\\AppData\\Local\\Chromium\\Application\\chrome.exe",
+    "cocCocExecutablePath": "C:\\Program Files\\CocCoc\\Browser\\Application\\browser.exe",
+    "browserArgs": [
+        "--disable-blink-features=AutomationControlled"
+    ],
+    "createCocCocProfilePerUsername": false,
+    "cocCocProfilesDir": "./coccoc-profiles",
+    "createFreshProfile": false,
+    "saveSessionState": true,
+    "manualLogin": true,
+    "manualLoginWaitTimeoutMs": 1800000,
+    "hashtag": "#sex",
+    "topicQuery": "#sex",
+    "searchTab": "top",
+    "replyTemplates": [
+        "Trending on TikTok but got removed immediately 😳\nIf you haven't watched it yet, there's still time👇😳\n👇\ncliphot.hoahuit.workers.dev"
+    ],
+    "imageDir": "./Image",
+    "attachRandomImage": true,
+    "commentMinDelayMs": 300000,
+    "commentMaxDelayMs": 600000,
+    "maxRepliesPerAccount": 500,
+    "maxCandidateTweets": 500,
+    "headless": false,
+    "dryRun": false,
+    "minDelayMs": 3000,
+    "maxDelayMs": 6000,
+    "stepMinDelayMs": 1800,
+    "stepMaxDelayMs": 4200,
+    "typingMinDelayMs": 65,
+    "typingMaxDelayMs": 145,
+    "loginInputTimeoutMs": 15000,
+    "navigationTimeoutMs": 60000,
+    "saveDebugScreenshotOnError": true,
+    "sessionDir": "./sessions",
+    "reportDir": "./reports"
+}
